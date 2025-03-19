@@ -8,7 +8,7 @@ Hell's Gate VX Technique originally develop by :
  PDF also included in this repository.
 
  Overview :
-  1   The first step is to access to the Thread Environment Block (TEB)
+  1   The first step is to access to the Thread Environment Block (TEB)\n
   2   From there, access the PEB
   3   Go through the PEB and get the base address from ntdll.dll
   4   Access the EAT from ntdll.dll
