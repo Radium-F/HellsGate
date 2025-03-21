@@ -29,8 +29,9 @@ Hell's Gate VX Technique originally develop by :
   Modification :
   
    Now this Poc performs process injection using Hellsgate VX technique, takes PID through 
-   command line argument
-   Usage : Hellsgate.exe <PID>.
+   command line argument<br>
+   
+   Usage : Hellsgate.exe PID.
 
   Please note:
   
@@ -38,6 +39,6 @@ Hell's Gate VX Technique originally develop by :
    original authors.<br>
    I did this for learning purpose, I prefer modification to understand technique in detailed 
    form.<br>
-   And finial words this code is not enough to bypass modern-day EDR/AV you have to comeup with 
+   And final words this code is not enough to bypass modern-day EDR/AV you have to comeup with 
    new ideas like Encryption , obfuscation etc<br>
  
